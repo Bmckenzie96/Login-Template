@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "194717726806",
+    "firebase_url": "https://collective-cook-book.firebaseio.com",
+    "project_id": "collective-cook-book",
+    "storage_bucket": "collective-cook-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194717726806:android:3e56a16370bc0ba0",
+        "android_client_info": {
+          "package_name": "com.a1996.ben.collectivecookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194717726806-ujvtp62cnms08nmp037makgods97ru9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7y0ipSvDt6VoS0_4LU8Y6IgZgXIPi4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
